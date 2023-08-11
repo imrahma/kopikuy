@@ -1,0 +1,64 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "55.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/04/Dawet-Durian-1.jpg",
+            "nama": "Es Cendol",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://www.diskop.id/wp-content/uploads/2023/03/resep-es-campur.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "data:image/jpeg;base64,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",
+            "nama": "Es Krim",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ]
+}
